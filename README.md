@@ -9,7 +9,6 @@
       <p>- 💬 Feel free if you have any questions on <b>Web and Mobile Development</b></p>
       <p>- 👯 I’m looking to collaborate with like minds, contact me via mail</p>
       <p>- 📫 How to reach me: <b><a href=mailto:praisejah.moses22@gmail.com alt=email>praisejah.moses22@gmail.com</a></b></p>
-      <p>- ⚡ Fun fact: <b>I'm a student of the ALX Software Engineering Programme (cohort 11)</b></p>
     </td>
     <td>
       <h3 align="left">Connect with me:</h3>
@@ -34,4 +33,4 @@
     </td>
   </tr>
 </table>
-<p align="center"> <a href="https://twitter.com/MosesPraisejah target="blank"><img src="https://img.shields.io/twitter/follow/MosesPraisejah?logo=twitter&style=for-the-badge" alt="praisejah" /></a> </p>
+<p align="center"> <a href="https://twitter.com/JaeMoses_ target="blank"><img src="https://img.shields.io/twitter/follow/POPSY_JAE?logo=twitter&style=for-the-badge" alt="praisejah" /></a> </p>
