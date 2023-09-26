@@ -33,4 +33,4 @@
     </td>
   </tr>
 </table>
-<p align="center"> <a href="https://twitter.com/JaeMoses_ target="blank"><img src="https://img.shields.io/twitter/follow/POPSY_JAE?logo=twitter&style=for-the-badge" alt="praisejah" /></a> </p>
+<p align="center"> <a href="https://twitter.com/JaeMoses_" target="blank"><img src="https://img.shields.io/twitter/follow/POPSY_JAE?logo=twitter&style=for-the-badge" alt="praisejah" /></a> </p>
